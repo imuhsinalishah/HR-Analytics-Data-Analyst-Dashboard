@@ -52,7 +52,7 @@ This HR Analytics Dashboard offers data-driven insights to help organizations:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/hr-analytics-dashboard.git
+   git clone https://github.com/imuhsinalishah/hr-analytics-dashboard.git
    ```
 2. Open the Power BI file and connect it to your dataset.
 
